@@ -1,5 +1,7 @@
 ### Problem Statement :
 
+Inferring emotions from facial expressions is very critical for social communication and deficits in facial emotion recognition are a very important marker in the diagnosis of autism spectrum disorder. This project uses AI to help autistic individuals recognize emotions in facial expressions.
+
 
 ### Model :
 
@@ -14,13 +16,15 @@ AffectNet is a database of facial expressions and contains more than  1M facial 
 
 Hugging spaces Demo : https://huggingface.co/spaces/tensorgirl/mri_classification
 
-### Reference Papers :
+### References :
 
 [Distract Your Attention: Multi-head Cross Attention Network for Facial Expression Recognition](https://arxiv.org/pdf/2109.07270.pdf)
 
 [Pytorch Implementation of DAN](https://github.com/yaoing/DAN)
 
 [Official Keras Core Documentation](https://keras.io/keras_core/)
+
+[Facial expression recognition as a candidate marker for autism spectrum disorder](https://molecularautism.biomedcentral.com/articles/10.1186/s13229-018-0187-7)
 
 ### My Advocacy in Autism
 
