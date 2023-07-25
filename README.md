@@ -6,7 +6,7 @@ Inferring emotions from facial expressions is very critical for social communica
 ### Model :
 
 Keras Core and Keras Legacy implementation of the below paper
-[CASS: Cross Architectural Self-Supervision for Medical Image Analysis](https://arxiv.org/pdf/2109.07270.pdf)
+[Distract Your Attention: Multi-head Cross Attention Network for Facial Expression Recognition](https://arxiv.org/pdf/2109.07270.pdf)
 
 ### Dataset : 
 
@@ -14,7 +14,7 @@ AffectNet is a database of facial expressions and contains more than  1M facial 
 
 [AffectNet](http://mohammadmahoor.com/affectnet/)
 
-Hugging spaces Demo : https://huggingface.co/spaces/tensorgirl/mri_classification
+Mediapipe Demo : https://codepen.io/Tensor-Girl/pen/ExdJmmP
 
 ### References :
 
