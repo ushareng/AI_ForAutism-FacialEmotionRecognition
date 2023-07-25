@@ -5,7 +5,7 @@ Inferring emotions from facial expressions is very critical for social communica
 
 ### Model :
 
-Keras Core and Keras Legacy implementation of the below paper
+Keras Core and Keras implementation of the below paper
 [Distract Your Attention: Multi-head Cross Attention Network for Facial Expression Recognition](https://arxiv.org/pdf/2109.07270.pdf)
 
 ### Dataset : 
