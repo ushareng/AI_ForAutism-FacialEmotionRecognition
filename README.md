@@ -16,6 +16,10 @@ AffectNet is a database of facial expressions and contains more than  1M facial 
 
 Mediapipe Demo : https://codepen.io/Tensor-Girl/pen/ExdJmmP
 
+### Intel Extension of TensorFlow
+
+Include the line pip install --upgrade intel-extension-for-tensorflow[cpu] in the beginning to use the Intel Extension of Tensorflow
+
 ### References :
 
 [Distract Your Attention: Multi-head Cross Attention Network for Facial Expression Recognition](https://arxiv.org/pdf/2109.07270.pdf)
